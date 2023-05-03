@@ -1,0 +1,51 @@
+#footer {
+    background: rgba(100, 97, 97, 0.96);
+    min-height: 30vh;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+
+}
+
+.footer .share h3 {
+    font-weight: 700;
+    font-size: 24px;
+    color: #eee7e7;
+    padding: 20px 0;
+}
+
+.footer .share h6   {
+    font-weight: 700;
+    font-size: 20px;
+    color: #eee7e7;
+}
+
+.footer .navbar a {
+    font-weight: 550;
+    color: #E4E4E4;
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    line-height: 38px;
+    padding-top: 10px;
+}
+.footer .navbar  {
+    padding-top: 20px;
+}
+
+.footer .contact a {
+    font-weight: 550;
+    color: #E4E4E4;
+    letter-spacing: 2px;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 38px;
+}
